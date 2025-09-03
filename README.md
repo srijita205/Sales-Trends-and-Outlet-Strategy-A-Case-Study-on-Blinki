@@ -1,5 +1,6 @@
 # Sales-Trends-and-Outlet-Strategy-A-Case-Study-on-Blinkit
-<img width="1536" height="1024" alt="blinkit sales analysis" src="https://github.com/user-attachments/assets/c421b2f0-a3e6-4f65-a6ac-6e03e03dba8e" />
+![OIP](https://github.com/user-attachments/assets/5c5fe9df-c5b8-454a-8267-19fdb975883b)
+
 
 This project analyzes Blinkit sales data to identify trends, patterns, and actionable insights that can drive better business decisions. The study covers item performance, outlet characteristics, product visibility, and customer ratings, using statistical analysis and visualization.
 
